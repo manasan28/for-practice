@@ -6,7 +6,7 @@ pipeline {
         GKE_CLUSTER_NAME = 'cluster-1' // Update with your GKE cluster name
         GKE_PROJECT_ID = 'avian-principle-452805-i0' // Update with your GCP project ID
         GKE_ZONE = 'us-central1-c' // Update with your GKE cluster zone
-        GIT_REPO_URL = 'https://github.com/manasan28/for-creation-of-pr.git' // Update with your Git repository URL
+        GIT_REPO_URL = 'https://github.com/manasan28/for-practice.git' // Update with your Git repository URL
         GIT_BRANCH = 'main' // Update with your branch name if needed (default is 'main')
     }
 
